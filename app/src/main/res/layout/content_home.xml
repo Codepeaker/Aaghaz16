@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.akansh.aaghaz.Home"
+    tools:showIn="@layout/activity_home">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageviewcd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:minHeight="200dp"
+            android:scaleType="centerCrop"/>
+
+        <TextView
+            android:id="@+id/aaghazinfo1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="20dp" />
+        <TextView
+            android:id="@+id/aaghazinfo2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="20dp" />
+        <TextView
+            android:id="@+id/aaghazinfo3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="20dp" />
+        <TextView
+            android:id="@+id/aaghazinfo4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="20dp" />
+        <TextView
+            android:id="@+id/aaghazinfo5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="20dp" />
+        <TextView
+            android:id="@+id/aaghazinfo6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="20dp" />
+        <TextView
+            android:id="@+id/aaghazinfo7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/grules"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#22313F"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="General Rules..."
+            android:textColor="#ffffff"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/aaghazrules"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/reachus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#22313F"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Reach Us..."
+            android:textColor="#ffffff"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/reach1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="7dp">
+
+                <TextView
+                    android:id="@+id/name1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="#000000"
+                    android:textSize="22sp" />
+
+                <TextView
+                    android:id="@+id/no1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="#8e44ad"
+                    android:textSize="22sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/reach2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="7dp">
+
+                <TextView
+                    android:id="@+id/name2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="#000000"
+                    android:textSize="22sp" />
+
+                <TextView
+                    android:id="@+id/no2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="#8e44ad"
+                    android:textSize="22sp" />
+            </LinearLayout>
+            <TextView
+                android:id="@+id/mail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textColor="#8e44ad"
+                android:textSize="20sp" />
+            <TextView
+                android:id="@+id/site"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="#8e44ad"
+                android:gravity="center"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

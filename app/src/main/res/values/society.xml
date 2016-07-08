@@ -1,0 +1,114 @@
+<resources>
+
+    <string-array name="icons">
+        <item>@drawable/ic_logochanakya</item>
+        <item>@drawable/ic_logoconundrum</item>
+        <item>@drawable/ic_logodiversity</item>
+        <item>@drawable/ic_logoimpression</item>
+        <item>@drawable/ic_logoiris</item>
+        <item>@drawable/ic_logonavrang</item>
+        <item>@drawable/ic_logoraaga</item>
+        <item>@drawable/ic_logorapbeats</item>
+        <item>@drawable/ic_logorudra</item>
+        <item>@drawable/ic_logotechwiz</item>
+    </string-array>
+
+    <array name="pics">
+        <item>R.drawable.ic_chanakya</item>
+        <item>R.drawable.ic_conundrum</item>
+        <item>R.drawable.ic_diversity</item>
+        <item>R.drawable.ic_impressions</item>
+        <item>R.drawable.ic_iris</item>
+        <item>R.drawable.ic_navrang</item>
+        <item>R.drawable.ic_raaga</item>
+        <item>R.drawable.ic_rapbeats</item>
+        <item>R.drawable.ic_rudra</item>
+        <item>R.drawable.ic_techwiz</item>
+    </array>
+
+    <string-array name="society_name">
+        <item>Chanakya</item>
+        <item>Conundrum</item>
+        <item>Diversity</item>
+        <item>Impression</item>
+        <item>Iris</item>
+        <item>Navrang</item>
+        <item>Raaga</item>
+        <item>Rapbeats</item>
+        <item>Rudra</item>
+        <item>TechWhiz</item>
+    </string-array>
+
+    <string-array name="society_type">
+        <item>The Intellectual Society</item>
+        <item>The Western Music Society</item>
+        <item>The Dance Society</item>
+        <item>The Fine Art Society</item>
+        <item>The Photography Society</item>
+        <item>The Theatre and Film Making Society</item>
+        <item>The Indian Classical Society</item>
+        <item>The Rapping Society</item>
+        <item>The Dramatic Society</item>
+        <item>The IT Society</item>
+    </string-array>
+    <string-array name="society_desc">
+        <item>Chanakya , the intellactual society, is a pioneer clubbing of the brainiacs and the witty minds of PGDAV College. An umbrella Society branched out into four subdividions, this society attracts students with a cornucopia of knowledge, creativety snd infinite wit.\nThe GREY MATTTER debating society draws in avid debaters, whereas KAVYAMRIT, the poetry society oozes the splendid creations by its members in the form of english and hindi poetry. PENCRAFT, the creative writing society is the hub of zealous minds sketching verbal pictures while BUZZER, the quizzing society is the concentration zone for active minds hungry for information from all fields of life, from all around the world.</item>
+        <item>Conundrum is a group of musicians who have been influenced from various genres. From Indian Classical to Progressive metal we appreciate all sounds of music and love to experiment in newer fields. Conundrum has been claimed as the best band of Delhi University of year 2013–14 and bagged first position at renowned college festivals at IIT BOMBAY, SRCC, HANS RAJ etc. We look forward to make good music and find more people to take part in this initiative.</item>
+        <item>Diversity, as the name signifies, the western dance society, encloses the diversity in itself. All forms of western dance from Hip-Hop to Ballet, Jazz to Salsa, Locking-Poping to Contemporary are specialty of Diversity. The students from first year to final year enthusiastically perform to their best to further diversify it. It has represented our college to various colleges of DU and various universities including IITs. The Diversity hence not only virtues its name but also glorifies the talents of students of present times.</item>
+        <item>Impressions A fine art society of PGDAV College is a home to Young Artist who speak the universal language of art. Our Colors speak for us. Fine Art is That in which the hand,the head,and the heart of man go together.</item>
+        <item>Snaps are the best way to express yourself. IRIS the photography team of PGDAV College takes utmost care of framing the memories. In oncoming Years we look forward to groom the passionate photographers who see the things other way around.</item>
+        <item>Navrang, the theatre and film making society of P.G.D.A.V College, is one of the most refined and budding society. It came into existence in 2013 and its first brick was kept by kamal kishore. The main aim of navrang is to spread effluence in supreme form of art and to endeavour its presence. Navrang has so far done 3 plays and have 4 awards in its account and count is still on. Our main motive is to stir creativity with talent and invoke the freshly art by choosing the most creamy layer and even blend it further to bring it to its most refined form.</item>
+        <item>Raaga, the indian classical society of PGDAV COllege is one of the oldest group formed consisting of members from famous gharanas.</item>
+        <item>PGDAV College formed this society in year 2013–2014 as an initiative to support the Hip-Hop music culture in the college. The current President of the society is Sohrab Siddiqui and the Vice President Shaunak Rawat. The Society holds rapping and beat boxing competitions every year in Aaghaz. Starting this year the society is welcoming producers and dj\'s into the fold and is hosting it\'s first DJing competition in Aaghaz\'16. The society works actively towards honing it\'s members\' skills through projects and routines and has never failed to give a successful on-stage performance.</item>
+        <item>Rudra, the dramatics society of PGDAV College has been working actively in the feild of street theatre since the year 2005. We make street plays with the motive of making people aware of the social problems prevailing in our society. We are a society that has won more than 60 awards and that too just in last two years. Being a renowned society we have also given special perfomances for Sahitya kala parishad, Hindustan times , Prithvi theatre(Mumbai), IIT Mumbai, IIT Kanpur. We believe in sheer hardwork and take our work very seriously.</item>
+        <item>TechWhiz is far different from the usual cliches of a normal technical society as it incorporates all the aspects related to Computing and IT sector. In techwhiz you will find a vast array of electric students envisaging their potential in the modern world of technology and together weaving a network for an exhilarating virtual world. It specifically encompasses theoretical and certain applied aspects of coding and networking. Its not just the home for the so called nerds or geeks but it also gives a far share of chance to those who have interest in other innovative fields like gaming and tech writing..</item>
+    </string-array>
+    <string-array name="society_contactn1">
+        <item>Shiva Singh</item>
+        <item>Dhruv Yadav</item>
+        <item>Chandrika</item>
+        <item>Pradeep Sagar</item>
+        <item>Ashutosh Gupta</item>
+        <item>Gurpreet</item>
+        <item>Brahmpreet</item>
+        <item>Sohrab</item>
+        <item>Siddharth</item>
+        <item>Nishant Banik</item>
+    </string-array>
+    <string-array name="society_contactn2">
+        <item>Devansh</item>
+        <item>Sanchit</item>
+        <item>Nidhi Bhoj</item>
+        <item>Laveena Arora</item>
+        <item>Ashish Dobhal</item>
+        <item>Deepak</item>
+        <item>Sanghomitra</item>
+        <item>Shaunak</item>
+        <item>Avi</item>
+        <item>Navneet</item>
+    </string-array>
+    <string-array name="society_contactp1">
+        <item>9871688829</item>
+        <item>9717018492</item>
+        <item>9654080014</item>
+        <item>9958890990</item>
+        <item>9996369682</item>
+        <item>9971155593</item>
+        <item>9958377959</item>
+        <item>9718749041</item>
+        <item>9953823342</item>
+        <item>9873753273</item>
+    </string-array>
+    <string-array name="society_contactp2">
+        <item>9717306694</item>
+        <item>8860555905</item>
+        <item>8527215127</item>
+        <item>9891567701</item>
+        <item>8130030338</item>
+        <item>9717330156</item>
+        <item>8130628721</item>
+        <item>9910064541</item>
+        <item>9717538392</item>
+        <item>9560420979</item>
+    </string-array>
+</resources>

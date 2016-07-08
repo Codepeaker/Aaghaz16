@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:focusable="true"
+    android:paddingBottom="@dimen/size_byte"
+    android:paddingLeft="@dimen/size_word"
+    android:paddingRight="@dimen/size_word"
+    android:paddingTop="@dimen/size_byte"
+    android:background="?attr/selectableItemBackground">
+
+    <ImageView
+        android:id="@+id/listIcon"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerVertical="true"
+         />
+
+    <TextView
+        android:id="@+id/listText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/listIcon"
+        android:textColor="@android:color/black"
+        android:alpha="0.87"
+        android:gravity="right"
+        android:padding="@dimen/size_half_byte"
+        android:text="DummyText"
+        android:textAllCaps="true"
+        android:textSize="@dimen/size_text_primary"
+        android:layout_toRightOf="@+id/listIcon"
+        android:layout_toEndOf="@+id/listIcon" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Medium Text"
+        android:id="@+id/listText2"
+        android:layout_alignBottom="@+id/listIcon"
+        android:layout_alignRight="@+id/listText"
+        android:layout_alignEnd="@+id/listText"
+        android:layout_below="@+id/listText"
+        android:layout_alignLeft="@+id/listText"
+        android:layout_alignStart="@+id/listText"
+        android:gravity="top|center_vertical|right" />
+</RelativeLayout>

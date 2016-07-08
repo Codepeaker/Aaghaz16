@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="About Aaghaz" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_nd_galleryicon"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/nav_culture"
+            android:icon="@drawable/ic_nd_ourculture"
+            android:title="Our Societies" />
+        <item
+            android:id="@+id/nav_event1"
+            android:icon="@drawable/ic_nd_februaryday1"
+            android:title="Events on Day-1" />
+        <item
+            android:id="@+id/nav_event2"
+            android:icon="@drawable/ic_nd_februaryday2"
+            android:title="Events on Day-2" />
+        <item
+            android:id="@+id/starnight"
+            android:icon="@drawable/ic_star"
+            android:title="Star Night" />
+    </group>
+
+    <group>
+        <item
+            android:id="@+id/nav_collegemap"
+            android:icon="@drawable/ic_nd_map"
+            android:title="College Map" />
+        <item
+            android:id="@+id/nav_register"
+            android:icon="@drawable/ic_nd_register"
+            android:title="Register" />
+        <item
+            android:id="@+id/nav_timeline"
+            android:icon="@drawable/ic_timeline"
+            android:title="Timeline" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_nd_aboutus"
+            android:title="About Developers" />
+        <item
+            android:id="@+id/nav_locate"
+            android:icon="@drawable/nd_location"
+            android:title="Locate us" />
+    </group>
+
+    <item android:title="Follow us on">
+        <menu>
+
+            <item
+                android:id="@+id/nav_facebook"
+                android:icon="@drawable/ic_nd_facebook"
+                android:title="Facebook" />
+            <item
+                android:id="@+id/nav_twitter"
+                android:icon="@drawable/ic_nd_twitter"
+                android:title="Twitter" />
+            <item
+                android:id="@+id/nav_instagram"
+                android:icon="@drawable/ic_nd_instagram"
+                android:title="Instagram" />
+        </menu>
+    </item>
+
+</menu>

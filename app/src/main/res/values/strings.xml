@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">Aaghaz</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splashscreen">Aaghaz</string>
+    <string-array name="tabs">
+        <item>Society</item>
+        <item>Day 1</item>
+        <item>Day 2</item>
+    </string-array>
+
+    <string-array name="Colleges">
+        <item>P.G.D.A.V. College</item>
+        <item>Acharya Narendra Dev College</item>
+        <item>Aditi Mahavidyalaya</item>
+        <item>Atma Ram Sanatan Dharam College</item>
+        <item>Ayurvedic and Unani Tibbia College</item>
+        <item>Bhagini Nivedita College</item>
+        <item>Bharati College</item>
+        <item>Bhaskaracharya College of Applied Sciences</item>
+        <item>Bhim Rao Ambedkar College</item>
+        <item>B.H.U.</item>
+        <item>College of Art</item>
+        <item>College of Vocational Studies</item>
+        <item>Daulat Ram College</item>
+        <item>Deen Dayal Upadhyaya College</item>
+        <item>Delhi College of Arts and Commerce</item>
+        <item>Delhi Technological University</item>
+        <item>Delhi Institute of Pharmaceutical Sciences and Research</item>
+        <item>Deshbandhu College</item>
+        <item>Dyal Singh College</item>
+        <item>Dyal Singh College (Evening)</item>
+        <item>Gargi College</item>
+        <item>Hans Raj College</item>
+        <item>Hindu College</item>
+        <item>IIT Delhi</item>
+        <item>IIT Mumbai</item>
+        <item>IIT Kharagpur</item>
+        <item>IIT Cheenai</item>
+        <item>IIT Roorkee</item>
+        <item>Indira Gandhi Institute of Physical Education and Sports Sciences</item>
+        <item>Indraprastha College for Women</item>
+        <item>Institute of Home Economics</item>
+        <item>Janki Devi Memorial College</item>
+        <item>Jesus and Mary College</item>
+        <item>Kalindi College</item>
+        <item>Kamala Nehru College</item>
+        <item>Kamala Nehru Institute of Technology</item>
+        <item>Keshav Mahavidyalaya</item>
+        <item>Kirori Mal College</item>
+        <item>Lady Hardinge Medical College</item>
+        <item>Lady Irwin College</item>
+        <item>Lady Shri Ram College for Women</item>
+        <item>Lakshmibai College</item>
+        <item>Maharaja Agrasen College</item>
+        <item>Maharshi Valmiki College of Education</item>
+        <item>Maitreyi College</item>
+        <item>Mata Sundri College for Women</item>
+        <item>Maulana Azad Medical College</item>
+        <item>Miranda House</item>
+        <item>Motilal Nehru College</item>
+        <item>Motilal Nehru College (Evening)</item>
+        <item>Nehru Homoeopathic Medical College and Hospital</item>
+        <item>Netaji Subhas Institute of Technology</item>
+        <item>NIT Delhi</item>
+        <item>NIT Patna</item>
+        <item>NIT Bhopal</item>
+        <item>NIT Allahbad</item>
+        <item>NIT Kurukshetra</item>
+        <item>P.G.D.A.V. College (Evening)</item>
+        <item>Rajdhani College</item>
+        <item>Rajkumari Amrit Kaur College of Nursing</item>
+        <item>Ram Lal Anand College</item>
+        <item>Aryabhatta College</item>
+        <item>Ramanujan College</item>
+        <item>Ramjas College</item>
+        <item>Satyawati College</item>
+        <item>Satyawati College (Evening)</item>
+        <item>School of Open Learning</item>
+        <item>Shaheed Bhagat Singh College</item>
+        <item>Shaheed Bhagat Singh College (Evening)</item>
+        <item>Shaheed Rajguru College of Applied Sciences for Women</item>
+        <item>Shaheed Sukhdev College of Business Studies</item>
+        <item>Shivaji College</item>
+        <item>Shri Ram College of Commerce</item>
+        <item>Shyam Lal College</item>
+        <item>Shyam Lal College (Evening)</item>
+        <item>Shyama Prasad Mukherji College for Women</item>
+        <item>Sri Aurobindo College</item>
+        <item>Sri Aurobindo College (Evening)</item>
+        <item>Sri Guru Gobind Singh College of Commerce</item>
+        <item>Sri Guru Nanak Dev Khalsa College</item>
+        <item>Sri Guru Teg Bahadur Khalsa College</item>
+        <item>Sri Venkateswara College</item>
+        <item>St. Stephen\'s College</item>
+        <item>Swami Shraddhanand College</item>
+        <item>University College of Medical Sciences and Guru Teg Bahadur Hospital</item>
+        <item>Vallabhbhai Patel Chest Institute</item>
+        <item>Vivekananda College</item>
+        <item>Zakir Husain Delhi College</item>
+        <item>Zakir Husain Post Graduate Evening College</item>
+        <item>Others</item>
+    </string-array>
+    <string name="title_activity_events">Events</string>
+    <string name="title_activity_society">Society</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tab">Aaghaz</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_gallery">Gallery</string>
+    <string name="title_activity_register">Register !!!</string>
+    <string name="title_activity_college_map">College Map !!!</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="vishal_sharma"><u><b>Vishal Sharma</b></u></string>
+    <string name="akansh_saxena"><u><b>Akansh Saxena</b></u></string>
+    <string name="skip"><u><b>Skip</b></u></string>
+    <string name="aaghaz_theme1">The Annual Cultural Festival of PGDAV College, University of Delhi.</string>
+    <string name="aaghaz_theme2">The Annual Festival “Aaghaz” is held during the month of February with participation from more than fifty colleges from Delhi University as well as other Universities.</string>
+    <string name="aaghaz_theme3">The event gets the maximum media coverage from both local and national media. With every passing year “Aaghaz” has grown and it is now taking shape of a cultural carnival.</string>
+    <string name="aaghaz_theme4">Diverse events in the fields of Art, Culture, Literature and Technology are held during the festival. The event will be marked with cash prizes, goodies and rolling Trophies.</string>
+    <string name="aaghaz_theme5">Celebrating the rich cultural heritage of Delhi, taking pride in its development, pondering over the challenges it faces, AAGHAZ’16 will be dedicated to Dilwalon ki Dilli.</string>
+    <string name="aaghaz_theme6">The Theme for Aaghaz’16 is “ISHQ-E-DILLI” and as we hit the stage to glorify the amazing city, we promise to make you fall in love with it, like never before!</string>
+    <string name="aaghaz_theme7">So all of you in love with Delhi, let’s love it more!</string>
+
+    <string name="rules">• Competition is open to students of all the colleges, departments and institutions of any University.\n• Participants are required to carry their recent identity cards duly signed by competent authorities of their respective University.\n• The Number of Prizes will depend upon the number of entries. If we have less than 5 Entries: No cash prize shall be awarded only Certificate of merit shall be provided.\n• All events shall be conducted in accordance with the rules and regulation for every respective event published by the host on the official website.\n• All the participants are requested to strictly follow the schedule and should report to the venue at least half an hour before the commencement of the competition.\n• Any indiscipline on the part of individual / member of contingent may lead to debarring/disqualification of that individual team.\n• Any type of damage to the college property in any form or any other indiscipline in the institute is not tolerable and strict disciplinary action will be initiated against the defaulter(s) as per the rules of the college.\n• The decision of the organizing committee will be abiding in case of any matter pertaining to the competition, change in Venue/Date/Time/Cash Prize or any other unforeseen circumstances.\n• Decision of the jury will be final and binding for all events.
+    </string>
+    <string name="title_activity_timeline">Timeline !!!</string>
+</resources>

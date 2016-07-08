@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="pgdavhyperion.com.aaghaz">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name=".extras.MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_logoagz"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".activities.Splashscreen"
+            android:label="@string/title_activity_splashscreen"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.TabActivity"
+            android:label="@string/title_activity_tab"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".starperfomance.ViewPagerDemo"
+            android:label="@string/title_activity_tab"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activities.HomeActivity"
+            android:label="@string/title_activity_home"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".glideimages.GalleryActivity"
+            android:label="@string/title_activity_gallery"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.RegisterActivity"
+            android:label="@string/title_activity_register"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.Events"
+            android:label="@string/title_activity_events"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.AboutUs"
+            android:label="@string/title_activity_events"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.Society"
+            android:label="@string/title_activity_society"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.CollegeMapActivity"
+            android:label="@string/title_activity_college_map"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".glideimages.DetailActivity"
+            android:label="@string/title_activity_detail"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.Timeline"
+            android:label="@string/title_activity_timeline"
+            android:theme="@style/AppTheme.NoActionBar"/>
+    </application>
+
+</manifest>

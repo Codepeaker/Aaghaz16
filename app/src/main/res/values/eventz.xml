@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Event_Name">
+        <item>Rebuttal</item>
+        <item>Game of Gavels</item>
+        <item>Worth Words? Wordsworth?</item>
+        <item>Radeef</item>
+        <item>360 degrees</item>
+        <item>Bring Out Life- B.O.L.</item>
+        <item>Battle of Bands</item>
+        <item>Step Burn</item>
+        <item>Jazbaa</item>
+        <item>Nrityangana</item>
+        <item>Jashan</item>
+        <item>Chatori Dilli</item>
+        <item>Ye Joota Dilli ka</item>
+        <item>On Spot Photography</item>
+        <item>On Spot Videography</item>
+        <item>Abhivyakti</item>
+        <item>Swaragini</item>
+        <item>Swaranjali</item>
+        <item>Sursringar</item>
+        <item>R.A.P.</item>
+        <item>DJ Wars</item>
+        <item>Beat Boxing</item>
+        <item>Shor</item>
+        <item>Techquiz</item>
+        <item>Code Storm</item>
+        <item>Respawn</item>
+        <item>LAN Racing</item>
+        <item>Web Canvas</item>
+        <item>Treasure Hunt</item>
+        <item>Beg Borrow Steal</item>
+    </string-array>
+    <string-array name="Event_Type">
+        <item>The Conventional Debate</item>
+        <item>The Court Room Debate</item>
+        <item>The Creative Writing Competition</item>
+        <item>The Poetry Recitation Competition</item>
+        <item>The Annual National Quiz</item>
+        <item>The Anchoring Talent Hunt</item>
+        <item></item>
+        <item>Western Group Dance Competition</item>
+        <item>Western Solo Dance Competition</item>
+        <item>Classical Solo Dance Competition</item>
+        <item>Folk Group Dance Competition</item>
+        <item>On Spot Painting</item>
+        <item>Shoe Painting</item>
+        <item></item>
+        <item></item>
+        <item>Stage Play Competition</item>
+        <item>Group Classical Singing</item>
+        <item>Indian Solo Classical Singing</item>
+        <item>Indian Solo Light Singing</item>
+        <item>Rhythm And Poetry</item>
+        <item></item>
+        <item></item>
+        <item>Street Play Competition</item>
+        <item>Technical Quiz</item>
+        <item>Coding</item>
+        <item>Counter Strike</item>
+        <item>NFS</item>
+        <item>Web Designing</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="Event_Desc">
+        <item>It is often better to not being able to settle a dispute than to not address it.\nRebuttal- the annual conventional debate, brings to you the opportunity to explore a burning issue from 360 degrees, frame an opinion and make others believe in that opinion.
+</item>
+        <item>Ever found a court room fascinating? Here’s your chance to live it. Explore the intricacies of the topic (including the legal ones), represent the prosecution or the defense and make your way to winning the case as the opponents question your stand.</item>
+        <item>What words escaping the lips cannot do, words escaping the pen can!\nIf the ink marks you leave on paper can leave a mark on the memories of the readers, inklinks- the annual creative writing competition awaits you.
+</item>
+        <item>Poetry is the art of adding two and two and coming up with a number greater than infinity.\nIf what you write has the ability of captivating the audiences, Radeef is for you.\nCome up with your best poems, ghazals, shers, sonnets, ballads etc. Glue us to the stage through any poetic genre and the prizes will be yours!
+</item>
+        <item>You know the world 360 degrees, do you?\nYou often intimidate your friends with your knowledge?\nThe annual quiz of PGDAV College wants just that. Wear your quizzing cape and fly to victory as we test your GK in a variety of subjects.
+</item>
+        <item>Any show can fail if it doesn’t have the right anchor. If you feel you can bring life to an event through your anchoring skills, this unique competition is just for you.</item>
+        <item></item>
+        <item>The western group dance is one of the main events of the festival. Over the past year this event has witnessed spectacular performances.  In this event, participants may perform any western style.</item>
+        <item>Jazbaa is a solo dance competition in which any dance form (except Indian classical, semi-classical and folk dance) can be performed. </item>
+        <item>Nrityangana is a solo classical dance competition in which participants are expected to perform any one of the 7 classical dance forms of India, be it Bharatnatyam, Oddisi, Kuchipudi, Mohiniattam, Kathak, Kathakali or Manipuri.</item>
+        <item>Jashan is a folk group dance competition in which participants can perform different folk styles.</item>
+        <item>Here we are with one such event that will give you the colorful charismatic taste of ”DILLI ki chaat-pakode, raju ke samose, khan chacha ka swaad” Everything which brings color to \“DILLI ka zaika\” And it\'s your job to serve it to us with your colors.
+</item>
+        <item>As you can see here we are talking about (\'khurafaati dilli”… APNE ISHARO PE NACHANE WALI DILLI KI VO PECHAN JO SBKE KADMO KO LAAL KILE SE KUTUB MINAR-KUTUB SE CHANDNI OR CHANDNI SE NAJANE KAHA….LEJATI HAI). So take your brushes \'Aur rang do jooto ko dilli ke rang main”.</item>
+        <item>This is an on the spot event in which participants will be judged on the basis of their skills in the college premises.</item>
+        <item>In this event teams will register and on the first day of Aaghaz they have to make a video of 60 seconds on our fest.</item>
+        <item>A stage play ought to be the point of intersection between the visible and invisible worlds.\n-ARTHUR ADAMOV\nAt Abhivyakti, PGDAV’s annual theatre competition, get ready to show your skills and impress the audience with your talent, be it mono acting or one act play. If you have it in you to surprise others with your acting then this is where you belong.\nThe stage is waiting for you.
+</item>
+        <item>Musical ensembles specializing in the performance of classical music.</item>
+        <item>Bringing back to the stage a tradition that is thousands of years old yet extensively prevalent to this day. Ragas are melodic road maps to elation and sanctification of the mind and soul. Solo performers, here, are given this opportunity to do just that.</item>
+        <item>Performers are given the spotlight to transport their listeners to a parallel dimension of aesthetical light melodies with their vocal prowess.</item>
+        <item>\'The Rap Game The hardest 9 to 5 you’ll ever have.\'- some Hip-Hop 101 for you by D12’s Bizarre. So you think you’re straight from the hardcore dungeons of Rap? Where fake MCs don’t make it back!? Can you set fire to the mic and ignite the crowd like Marshall and expose \'MCs acting like they don’t know\'… Tell us whether Honey can really Sing!? Alright then! Here’s your shot to prove your skills at P.G.D.A.V. college’s annual fest-AAGHAZ. Do not miss your chance to blow! Round 1 would involve the selection of 8 contestants with the best entries online and Round 2 would see the selected participants face off each other on stage at the fest! Rappers can bring RnB artists with them if they like! The winners in round 2 make some fat doe, and how does that Wu-tang song go- \'Cash rules everything around me C.R.E.A.M.! Get the money! The Dolla dolla bill y’all!\'. </item>
+        <item>All y’all Skrillexes and Martin Garrixes out there! This is your opportunity to show off your DJing skills at P.G.D.A.V. college’s annual fest- AAGHAZ. Round 1 would involve online shortlisting of entries and the top 6 entries would go on stage at the fest for round.</item>
+        <item>Hey! Are you a beat boxer!? Are you better than Tom Thum? No? Yes? Maybe? okay, come flex your skills anyway at P.G.D.A.V.’s annual fest- AAGHAZ.\nThe structure of the event depends on the number of participants contending. If number of participants are below 8. Then the event would be a show case of the participants’ beat boxing skills.
+</item>
+        <item>RUDRA, the street play society of PGDAV College brings you the street play event - SHOR.\nA competition filled with enthusiasm, energy, thrilling voice and lot more fun.
+</item>
+        <item>This is a quiz event which would be related to the field of IT. In this quiz teams can portray their knowledge in the field of IT and see if they know more than the others.</item>
+        <item>This is a coding event. Here teams can come and showcase their talents in coding. Also this time we have removed all the limits of language so if you know to code then this is the event for you.</item>
+        <item>Gaming is no more a way to just enjoy but is now an art, so if you think you have mastered this art and are capable of those headshots and think your team is the best in counter strike then showcase your talent at Aaghaz 2016.</item>
+        <item>This is an individual game, players have to prove their mettle in the game of Need for Speed Most Wanted. Whoever is the first to cross the finishing line wins ad takes home some very exciting prizes.</item>
+        <item>Web Designing is something you do when you want to express yourself and if that designer inside you is longing to come outside. So come to aghaaz 2016 and design a website on the given topic and showcase your talent in the field of website designing.</item>
+        <item>If you think searching for treasure happens only in pirate movies, then you are gladly mistaken. This year`s treasure hunt promises a wide exploring gist which is an ideal platform for all of you adventurous people out there. Dare to take on this hunt?</item>
+        <item>Get ready to put all your resources and contacts to a test to fetch the most radical and extraordinary things in this epic race. In this game show you can win money by begging, borrowing or stealing things. Participants will be given a list of things that they have to fetch within a time span. Everything is fair in this war. \'Jugaad\' is the key word. For once, you won\'t be ostracized for begging, despised for borrowing or prosecuted for stealing. The team which earns the maximum points in the least time will be declared winners. It\'s time to put on your shoes, fasten your belts, spruce up your imagination and put all your resources to fetch the most radical things. For once in a lifetime you won\'t be eschewed for begging, despised for borrowing or prosecuted for stealing. So get ready to have some real fun.</item>
+    </string-array>
+    <string-array name="Event_Rules">
+        <item>•	Team Size- Teams of 2 (one for the motion and one against it)\n• Time limit: 3+1 minutes per speaker\n• The event is bilingual.\n• Only two teams can participate from a college.\n• A maximum of 2 interjections from each participant.\n• Rounds- Single Round with pre-given topic.\n• TOPIC: THBT Economic Liberalisation in India has brought about Social Mobility but not Social Freedom.\n• भारत में आर्थिक उदारीकरण की वजह से सामार्जक गतिशील्ता आयी है अपितु सामार्जक स्वतंत्रता नहीं।
+</item>
+        <item>•	A maximum of 2 teams can participate from a college.\n• Participation can be in teams of 2-3.\n• One member of each team must be the lawyer, presenting the case. The remaining people would be taking the roles of witness.\n• The witnesses would be presented to strengthen the case of the side introducing him/her.\n• The witness would also be open to cross-examination from the other team.\n• The lawyer must provide a brief opening statement and closing argument, to the judge.\n• The opening statement – 2 mins.\n  Witnesses – 7 mins for the side introducing the witness\n  3 mins for the cross examinations.\nClosing argument – 3-5 mins\n• The organizers would also allot whether the team would be acting as prosecutor or defense.\n• Only the first 8 teams to register will be allowed to participate.
+</item>
+        <item>• It is a bilingual event.\n•	Individual participation.\n• Maximum of two participants from each college.\n• Round 1- The participants will be shown a graphic/video which they have to recreate on paper in 15 min.\n• Round 2- The participants will have to write a piece in any literary style within 50 minutes.
+</item>
+        <item>•	The poems can be in English, Hindi or Urdu.\n• Individual or duet participation allowed.\n•	A maximum of two entries from each college.\n• Time limit- 5 minutes.\n• The poems have to be sent to chanakya.pgdav@gmail.com by 28th of January, 2015. The shortlisted participants will feature on the day of the event.\n• Use of obscene language is prohibited.\n•	Individual or Duet Participation
+</item>
+        <item>•	Participation in teams of two.\n• A maximum of two teams from each college.\n• There will be 4 rounds which will be revealed on the spot.\n• Only the first 30 registering teams will be allowed to participate.\n•	One of rounds will be based on the theme ishq-e-dilli.
+</item>
+        <item>•	Individual participation.\n• It is a bilingual event.\n• Maximum 2 entries from each college.\n• Round 1- Participants will be given a theme on which they will perform. Time limit - 3 min. The theme will be out 2 days prior the event.\n• Round 2- Participants will be given a situation on spot and will be judged on their spontaneity.
+</item>
+        <item>• There will only be one round. Each Band will get 20 minutes on stage (including sound check).\n• There is no language restriction on the entries.\n• A drum kit will be provided. Participants are requested to get all other instruments they will be using for the performance.\n•Violation of any of the above rules shall lead to immediate disqualification.\n• The decision of the judges and the organizers regarding any issue shall be final and binding.\n• Teams will be shortlisted on the basis of demo/video sent on conundrum@pgdavhyperion.com by 28th jan 2016
+</item>
+        <item>• Only one team per college is allowed.\n• Maximum 15 members and minimum 12 members can participate.\n• On stage minimum 6 members are allowed at a time.\n• Time limit for the performance is 8-10 minutes.\n• No props will be provided by the college.\n• Pre-recorded music should be brought only in a pen drive.\n• Any kind of fluid, flame and powder is not allowed on stage.\n• The decision of the judges shall be final and binding.\n• Non-compliance of these rules could lead to disqualification.\n• Participants have to Send the Video of their latest Dance Performance to our email "pgdavdiversity@gmail.com" for Prelims!
+</item>
+        <item>• Only 2 entries per college are allowed.\n• Time limit for the performance is 4-6 minutes.\n• No props will be provided by the college.\n• Pre-recorded music should be brought only in a pen drive.\n• Any kind of fluid, flame and power is not allowed on stage.\n• The decision of the judges shall be final and binding.\n• Non-compliance of these rules could lead to disqualification.
+</item>
+        <item>• Only 2 entries per college are allowed.\n• Time limit for the performance is 6-8 minutes.\n• Songs should be strictly classical. Film songs not allowed.\n• Pre-recorded music should be brought only in a pen drive.\n• Any kind of fluid, flame and power is not allowed on stage.\n• The decision of the judges shall be final and binding.\n• Non-compliance of these rules could lead to disqualification.
+</item>
+        <item>• Only one team per college is allowed.\n• Maximum 12 members and minimum 6 members can participate.\n• Time limit for the performance is 6-8 minutes.\n• No prop will be provided by the college.\n• Pre-recorded music should be brought only in a pen drive.\n• Any kind of fluid, flame and power is not allowed on stage.\n• The decision of the judges shall be final and binding.\n• Non-compliance of these rules could lead to disqualification.
+</item>
+        <item>• 1 member only.\n• Participants have to bring their own material.\n• Simple stationary such as pencil and A3 size sheets will be provided by the college.\n• Work should be theme based.
+</item>
+        <item>• Use of painting colors, such as Acrylic colors and Fabric colors is permitted.\n• Participants are asked to bring their own materials.\n• Two stages are there-\n  a.	Online prelims(participants are requested to mail their designs at impressions@pgdavhyperion.com by 30th January)\n  b.	And then the top 10 selected entries will be asked to come and work over the shoes.
+</item>
+        <item>• Online entries will be entertained for the given themes along with the details such as-\n
+  a) ISO\n
+  b) Shutter Speed\n
+  c) Aperture\n
+  d) Caption\n• Best 15 entries would be short listed on the basis of-\n
+  a) Creativity\n
+  b) Adherence to the theme given\n• Those 15 participants would be called in the college premises for on the spot photography.\n• They\'ll be given a theme and the duration shall be 1 hour in the college premises only.\n• The participants who\'ll be coming in time will be judged on the perspective part and their skills.
+</item>
+        <item>• Every team should possess either a phone camera or a DSLR.\n• They have to possess a laptop also for basic editing such as combining the videos.\n• Every team will be given 2 hours in which they can cover any ongoing event.\n• The results will be declared after three days by thoroughly going through the videos and the best two will be given the prizes.
+</item>
+        <item>• Play can be in English, Hindi or a combination of both.\n• The script can be original or an adaptation.\n• Maximum 40 (35+5) minutes shall be given including setup and clearance.\n• Teams exceeding time limit shall be penalized.\n• 4 chairs and 2 tables will be provided.\n• Recorded music is allowed.\n• The contestants are PROHIBITED to use vulgar words, acts and expressions within their presentation.\n• Decisions of the judges and the organizers shall be final.
+</item>
+        <item>• Team size: 5-12 vocalists.\n• A team will be given 12 minutes to perform including setup and clearance. A warning indication shall be given 10 minutes after the start of your time.\n• More than 3 accompanists are NOT allowed during the performance.\n• All decisions by the judges will be considered final.
+</item>
+        <item>• Time Limit - 2+4= 6 minutes (including setup and clearance)\n• More than two instruments are NOT allowed.\n• All decisions by the judges will be considered final.
+</item>
+        <item>• Time Limit - 1+3= 4 minutes (including setup and clearance)\n• More than two instruments are NOT allowed.\n• Semi-Classical, Bollywood or any other form of light music is allowed.\n• All decisions by the judges will be considered final.
+</item>
+        <item>• Vulgar, explicit content and abusive language are not allowed in order to maintain the sanctity of the educational institution.\n• Songs to be performed ought to be self-composed. The instrumental or track used may not necessarily be self-composed, the lyrics need to be original.\n• Maximum time limit: 4 minutes.\n• Languages allowed: Hindi, English and Punjabi.\n• Instrumentals to be brought in a pen drive.\n• Participants have to Send his/her lyrics to our email "shaunakrawat@gmail.com" for Prelims!
+</item>
+        <item>• Time limit: max 10 minutes.\n• Live mixing only. Pre-mixing will result in disqualification.
+</item>
+        <item>• One round only\n• Max time limit: 5 mins\nIf the number of contestants are 8 or above then a beat boxing battle would take place\n• One round per battle and each battler gets 90 seconds.\n• If there’s a tie in the first round. A tiebreaker 30 seconds would be given to each contestant.\n• Only human organs are allowed, no external instruments to be used.
+</item>
+        <item>• Time slot for the play: 20+2 minutes\n• Props are allowed\n• Maximum number of participants: 21\n• There won\'t be any prelims\n• The theme of the street play should be socially relevant and highlight social issues\n• The decision of the judges shall be final and binding\n• Selection of team will be done on the basis of scripts and a 10 min video of the play to be sent at rudra@pgdavhyperion.com
+</item>
+        <item>• 2 participants per team (Inter college teams are allowed)\n• Participants cannot use the help of any gadgets.\n• Decision of the judges is final and binding.\n• Use of unfair means is prohibited and can lead to disqualification.\n• Round 1 would be a written MCQ paper.\n• Round 2 – Elimination round - Comprises three sub-rounds containing audio visual questions.
+</item>
+         <item>• 2 participants per team (Inter college teams are allowed)\n• Participants cannot use the help of any gadgets.\n• Decision of the judges is final and binding.\n• Use of unfair means is prohibited and can lead to disqualification.\n• Round 1 would be a written MCQ paper.\n• Round 2 - teams would be given two problems and they need to code and find the solutions to those problems.
+</item>
+        <item>• Any of the following rules can be changed without prior notifications :
+            \n• The Half\-Life Counter\-Strike PC game championship 5x5 (team play, 5 members per team).
+            \n• The Tournament Organizers reserves the right to cancel or modify the tournament rules.
+            \n• Tournament game rules
+            \n* The tournament is divided into three categories
+            \n    1. Qualifying match: 6 Rounds
+            \n    2. Semifinal: 20 Rounds
+            \n    3. Final: 30 Rounds
+            \n* A knife-round is used to decide which team plays Counter-Terrorist and which team plays Terrorist.
+            \n* In the incident of a tie, there will be a tie breaker match
+            \n• Official tournament maps:
+            \n   1. de_dust2
+            \n   2. de_inferno
+            \n   3. de_nuke
+            \n   4. de_train
+
+            \n•Teams has to mail there CFGs at mevishaljangid@gmail.com before 12:00 am on 1 February, CFG File will not be accepted at the time of tournament.\n• Team and Team in-game leader name must be written on the CFG file Folder and the subject of the mail should be "CFG File".
+            \n•Tactical shield and Auto Sniper use is forbidden.
+            \n•Mouse and mousepad will not be provided to the teams ,Teams has to Bring the Gears they required.
+            \n•The Server Admin has the right to disqualify and dismiss any registered player from the tournament.
+            \n•The Server Admin\' decisions are final.
+</item>
+        <item>• Individual participation.\n• Decision of the judges is final and binding.\n• Use of unfair means is prohibited and can lead to disqualification.\n• Use of unfair means and foul language is prohibited and can lead.\n• Participants cannot bring any equipment of their own.\n• Rounds - Multiple rounds where 4 racers compete at a time and the winner moves on to the next round to disqualification.
+</item>
+        <item>• 60 minutes would be allotted.\n• Individual events.\n• Web-designing software not allowed.\n• Only notepad++ and jquery library will be provided.
+</item>
+        <item>• Teams should comprise of 2 members.\n• Cross College teams are allowed.\n• All decisions will be final and binding and will be decided by the organizing committee.\n• Every participant should carry their respective valid college ID’s failing to which participation will not be allowed.\n• Violation of any rules, prompting or inappropriate behavior will lead to direct disqualification.\n• Teams will have to perform physical tasks in the event.\n• Each team has to report at the registration desk at 12 noon.
+</item>
+        <item>• A Team will comprise of 2 players.\n• All the teams will be provided with a list of items.\n• Team members will have to complete the task within a time limit of 60 minutes.\n• Team can either beg, borrow or steal the items that are enlisted and provided to them.\n• Teams will have to get themselves registered before the commencement of the event.\n• After the completion of the task the teams will are required to report to the coordinators for evaluation.\n• Each team has to report at the registration desk at 12:00 noon.
+</item>
+    </string-array>
+
+    <string-array name="Event_Date">
+        <item>1st Feb\'16</item>
+        <item>2nd Feb\'16</item>
+        <item>2nd Feb\'16</item>
+        <item>1st Feb\'16</item>
+        <item>1st Feb\'16</item>
+        <item>2nd Feb\'16</item>
+        <item>1st Feb\'16</item>
+        <item>2nd Feb\'16</item>
+        <item>2nd Feb\'16</item>
+        <item>1st Feb\'16</item>
+        <item>1st Feb\'16</item>
+        <item>1st Feb\'16</item>
+        <item>2nd Feb\'16</item>
+        <item>2nd Feb\'16</item>
+        <item>1st Feb\'16</item>
+        <item>30th Jan\'16</item>
+        <item>2nd Feb\'16</item>
+        <item>2nd Feb\'16</item>
+        <item>1st Feb\'16</item>
+        <item>1st Feb\'16</item>
+        <item>2nd Feb\'16</item>
+        <item>1st Feb\'16</item>
+        <item>30th Jan\'16</item>
+        <item>1st Feb\'16</item>
+        <item>1st Feb\'16</item>
+        <item>2nd Feb\'16</item>
+        <item>1st Feb\'16</item>
+        <item>2nd Feb\'16</item>
+        <item>1st Feb\'16</item>
+        <item>2nd Feb\'16</item>
+    </string-array>
+    <string-array name="Event_Time">
+        <item>10:00 am</item>
+        <item>10:00 am</item>
+        <item>10:00 am</item>
+        <item>2:00 pm</item>
+        <item>11:00 am</item>
+        <item>10:00 am</item>
+        <item>1:30 pm</item>
+        <item>12:00 pm</item>
+        <item>10:00 am</item>
+        <item>1:00 pm</item>
+        <item>11:00 am</item>
+        <item>11:00 am</item>
+        <item>11:00 am</item>
+        <item>10:30 am</item>
+        <item>10:30 am</item>
+        <item>12:00 pm</item>
+        <item>10:00 am</item>
+        <item>12:30 pm</item>
+        <item>12:00 am</item>
+        <item>11:00 am</item>
+        <item>2:30 pm</item>
+        <item>12:00 am</item>
+        <item>10:00 am</item>
+        <item>1:00 pm</item>
+        <item>10:30 am</item>
+        <item>10:30 am</item>
+        <item>10:30 am</item>
+        <item>12:30 pm</item>
+        <item>1:00 pm</item>
+        <item>1:00 pm</item>
+    </string-array>
+    <string-array name="Event_Venue">
+        <item>Evening Staffroom</item>
+        <item>Rooms NB-105,106,107,108</item>
+        <item>Classroom NB-106</item>
+        <item>Seminar Hall</item>
+        <item>Seminar Hall</item>
+        <item>Seminar Hall</item>
+        <item>Main Stage</item>
+        <item>Main Stage</item>
+        <item>Main Stage</item>
+        <item>Coke Studio Ground</item>
+        <item>Main Stage</item>
+        <item>New Teaching Block- 1st Floor Corridor</item>
+        <item>New Teaching Block- 1st Floor Corridor</item>
+        <item>College Premises</item>
+        <item>College Premises</item>
+        <item>Seminar Hall</item>
+        <item>Coke Studio Ground</item>
+        <item>Coke Studio Ground</item>
+        <item>Main Stage</item>
+        <item>Coke Studio Ground</item>
+        <item>Coke Studio Ground</item>
+        <item>Coke Studio Ground</item>
+        <item>Coke Studio Ground</item>
+        <item>Computer Lab</item>
+        <item>Computer Lab</item>
+        <item>Computer Lab</item>
+        <item>Computer Lab</item>
+        <item>Computer Lab</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="Event_Min">
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+        <item>8</item>
+        <item>12</item>
+        <item>1</item>
+        <item>1</item>
+        <item>6</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>16</item>
+        <item>5</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>4</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="Event_Max">
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+        <item>15</item>
+        <item>1</item>
+        <item>1</item>
+        <item>12</item>
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+        <item>18</item>
+        <item>12</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>21</item>
+        <item>2</item>
+        <item>2</item>
+        <item>5</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="Event_Soc">
+        <item>Chanakya</item>
+        <item>Chanakya</item>
+        <item>Chanakya</item>
+        <item>Chanakya</item>
+        <item>Chanakya</item>
+        <item>Chanakya</item>
+        <item>Conundrum</item>
+        <item>Diversity</item>
+        <item>Diversity</item>
+        <item>Diversity</item>
+        <item>Diversity</item>
+        <item>Impression</item>
+        <item>Impression</item>
+        <item>Iris</item>
+        <item>Iris</item>
+        <item></item>
+        <item>Raaga</item>
+        <item>Raaga</item>
+        <item>Raaga</item>
+        <item>Rapbeats</item>
+        <item>Rapbeats</item>
+        <item>Rapbeats</item>
+        <item></item>
+        <item>TechWhiz</item>
+        <item>TechWhiz</item>
+        <item>TechWhiz</item>
+        <item>TechWhiz</item>
+        <item>TechWhiz</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="note">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Send us your self-composed poetry to "chanakya.pgdav@gmail.com by 28th January"</item>
+        <item></item>
+        <item></item>
+        <item>Participants have to Send their Video/Video link of their Performance to our email "sanchitrodrick@outlook.com" for Prelims!</item>
+        <item>Participants have to Send the Video of their latest Dance Performance to our email "pgdavdiversity@gmail.com" for Prelims!</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Participants have to mail their designs at impressions@pgdavhyperion.com by 30th January for Prelims!</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Participants have to Send his/her lyrics to our email "shaunakrawat@gmail.com" for Prelims!</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Entry Fee for the TECH QUIZ is Rs. 50 per team.</item>
+        <item></item>
+        <item>Entry Fee for the RESPAWN is Rs. 150 per team.</item>
+        <item>Entry Fee for LAN Racing is Rs. 30.</item>
+        <item></item>
+        <item>Registration Fees for Treasure Hunt is Rs. 50 per team.</item>
+        <item>Registration Fees for Beg Borrow Steal is Rs. 50 per team.</item>
+    </string-array>
+</resources>
